@@ -1,0 +1,52 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Next.js
+.next/
+out/
+build/
+next-env.d.ts
+
+# Environment — never commit real credentials
+.env
+.env.local
+.env*.local
+
+# Lead and telemetry data — contains personal information
+.data/
+
+# Testing
+coverage/
+test-results/
+playwright-report/
+blob-report/
+.playwright-mcp/
+playwright/.cache/
+.lighthouseci/
+
+# Local screenshots and research artefacts
+*.png
+!public/**/*.png
+!app/**/*.png
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/*
+!.vscode/extensions.json
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Vercel
+.vercel
+
+# TypeScript
+*.tsbuildinfo

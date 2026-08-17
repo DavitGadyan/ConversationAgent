@@ -1,0 +1,46 @@
+{
+  "url": "http://localhost:3100/",
+  "measuredAt": "2026-08-16T14:24:36.369Z",
+  "device": "Pixel 5 (Chromium, unthrottled network)",
+  "lcpMs": 0,
+  "fcpMs": 312,
+  "ttfbMs": 77.59999999403954,
+  "domContentLoadedMs": 379.8999999985099,
+  "loadMs": 400.8999999985099,
+  "domNodes": 1120,
+  "headerLinks": 3,
+  "totalLinks": 17,
+  "h1Count": 1,
+  "h1Text": [
+    "Secure caravan storage from $36 a week"
+  ],
+  "title": "Secure Caravan, Boat & RV Storage — Brisbane & Ipswich | Caravan Concierge",
+  "metaDescription": "Secure storage for caravans, boats, motorhomes, RVs and vehicles across Brisbane, Ipswich and the Gold Coast. 24/7 monitored, no lock-in contract.",
+  "hasViewportMeta": true,
+  "imagesMissingAlt": 0,
+  "imagesMissingDimensions": 0,
+  "transferBytes": 361737,
+  "scriptBytes": 227101,
+  "imageBytes": 0,
+  "imageCount": 0,
+  "requestCount": 18,
+  "cls": 0.0003,
+  "notes": [
+    "Median of 3 runs. Individual page loads vary considerably with cache state."
+  ],
+  "runs": 3,
+  "spread": {
+    "ttfbMs": [
+      63,
+      131
+    ],
+    "fcpMs": [
+      300,
+      384
+    ],
+    "loadMs": [
+      399,
+      518
+    ]
+  }
+}

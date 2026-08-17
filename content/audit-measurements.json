@@ -1,0 +1,46 @@
+{
+  "url": "https://www.caravanconcierge.com.au/",
+  "measuredAt": "2026-08-16T14:25:31.417Z",
+  "device": "Pixel 5 (Chromium, unthrottled network)",
+  "lcpMs": 0,
+  "fcpMs": 1052,
+  "ttfbMs": 390.70000000298023,
+  "domContentLoadedMs": 1111.6000000014901,
+  "loadMs": 2346.10000000149,
+  "domNodes": 1138,
+  "headerLinks": 25,
+  "totalLinks": 88,
+  "h1Count": 1,
+  "h1Text": [
+    "Secure Caravan Storage. No Lock-ins. No Surprises."
+  ],
+  "title": "Caravan Storage Brisbane | Secure Boat & Motorhome Storage",
+  "metaDescription": "We specialise in safe, secure storage in Brisbane for caravans, boats, motorhomes & more. Open 365 days. Call us today on 07 3608 5993.",
+  "hasViewportMeta": true,
+  "imagesMissingAlt": 0,
+  "imagesMissingDimensions": 3,
+  "transferBytes": 2507426,
+  "scriptBytes": 489771,
+  "imageBytes": 492984,
+  "imageCount": 7,
+  "requestCount": 54,
+  "cls": 0,
+  "notes": [
+    "Median of 3 runs. Individual page loads vary considerably with cache state."
+  ],
+  "runs": 3,
+  "spread": {
+    "ttfbMs": [
+      391,
+      2939
+    ],
+    "fcpMs": [
+      1048,
+      5808
+    ],
+    "loadMs": [
+      2116,
+      7919
+    ]
+  }
+}
